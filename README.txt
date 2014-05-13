@@ -5,6 +5,9 @@ v1.0
 Carlos Carbonell
 carlos.awesomenesss.eu
 
+DEMO
+http://awesomenesss.eu/public/Jquery.3dbook/
+
 INSTALL
 
 Move the "3d.book" folder to your root or "js" folder
