@@ -1,18 +1,9 @@
-jquery.3dbook
-=============
-
-Jquery plugin for book 3D preview
-
 Jquery 3d.book plugin 
 v1.0
 22-01-2014
 
 Carlos Carbonell
 carlos.awesomenesss.eu
-
-DEMO
-
-http://awesomenesss.eu/public/Jquery.3dbook/
 
 INSTALL
 
